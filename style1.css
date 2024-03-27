@@ -1,0 +1,47 @@
+
+  
+    h1 {
+        font-style: italic;
+        background: lightslategray;
+       text-align: center;
+        margin-top:350px;
+        margin-bottom: 250px;
+       
+      } 
+  
+       p{
+      margin:7px;
+      text-align: center;
+      margin-top: -350px;
+      margin-bottom: -250px;
+      
+    }
+  
+    .transporteur{     
+      height:30%;
+      width: 20%;
+      border-radius: 50px;
+     margin-top:-100px;
+     margin-left:50px;
+   }
+  
+      .block{     
+         height:30%;
+         width: 20%;
+         border-radius: 50px;
+        margin-top:-180px;
+        margin-left:650px;
+      }
+  
+   .nav {
+      margin-top: 250px;
+
+   }
+      
+    
+   
+     html {
+       background:rgb(47, 88, 120);
+     }
+  
+  
